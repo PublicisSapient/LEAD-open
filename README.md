@@ -7,6 +7,7 @@ The icons come in three versions: Plain, Bold, and Text (includes the specific L
 - [PNG 1X Format](https://github.com/PublicisSapient/LEAD-open/tree/master/Graphics/LEAD-001-PNG)
 - [PNG 2X Format](https://github.com/PublicisSapient/LEAD-open/tree/master/Graphics/LEAD-001-PNG)
 - [SVG Format](https://github.com/PublicisSapient/LEAD-open/tree/master/Graphics/LEAD-001-SVG)
+- [Beta Experiments](https://github.com/PublicisSapient/LEAD-open/tree/master/Graphics/LEAD-Beta)
 
 ## Current Public LEAD References:
 - [What is CX?](https://maeda.pm/2019/08/17/what-is-cx/)
